@@ -1,0 +1,16 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^10.1.0",
+    "excel4node": "^1.7.2",
+    "readline-sync": "^1.4.10"
+  }
+}
